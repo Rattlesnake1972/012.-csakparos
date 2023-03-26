@@ -1,0 +1,14 @@
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.exe.config
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.exe
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.pdb
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\obj\Debug\012. csakparos.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\obj\Debug\_012.csakparos.exe
+C:\Users\gratt\source\repos\012. csakparos\012. csakparos\obj\Debug\_012.csakparos.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\bin\Debug\_012.csakparos.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\obj\Debug\012. csakparos.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\obj\Debug\012. csakparos.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\obj\Debug\012. csakparos.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\obj\Debug\_012.csakparos.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\012. csakparos\012. csakparos\obj\Debug\_012.csakparos.pdb
